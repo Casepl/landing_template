@@ -271,9 +271,9 @@ h1, h2, h3 {
     flex: 1 0 33.3%
 }
 .solutions-grid-item-icon {
+    width: 40px;
     min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 10px;
 }
 
 .solutions-grid-item-icon .fa{
@@ -286,7 +286,6 @@ h1, h2, h3 {
     -ms-flex: 1;
     flex: 1;
     padding-right: 15px;
-    padding-left: 15px;
 }
 
 .solutions-grid-item-content h4 {
